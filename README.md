@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhiyu344
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++, Python
+- 🌱 I’m currently learning C++, Python, HTML/CSS
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me
   - Email: zhiyu344@qq.com
